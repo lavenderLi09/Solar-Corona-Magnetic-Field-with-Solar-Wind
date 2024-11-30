@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     description='PFSS Solver',
     long_description='Python Tools to Solve the PFSS model by the syntopic magnetic map',
-    author='Chen Guoyin, Li Yihua',
+    author='Li Yihua, Chen Guoyin',
     author_email='gychen@smail.nju.edu.cn',
     install_requires=[
         'numpy>=1.24.0', 
