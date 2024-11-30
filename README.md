@@ -1,1 +1,6 @@
-# solar_wind_corona_field
+# Solar Corona Magnetic Field with Solar Wind
+## Purpose
+
+## Methods
+
+## Related Sources
