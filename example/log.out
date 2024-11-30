@@ -1,0 +1,84 @@
+### ./Brtp_temp_files/0000.out Content :
+ ### ======================================================================= ### 
+ ###        Step1: Compute the Sphrical harmonics function coefficient       ### 
+ ### ======================================================================= ### 
+ ### ======================================================================= ### 
+ ###                      Step2: Building the Brtp field                     ### 
+ ### ======================================================================= ### 
+Device:  cuda:0
+Progress:      1/836 tasks completed.  Wall_time:    0.002 min, max Br: -6.1109e-03, min Br:-3.8193e-02
+Progress:    100/836 tasks completed.  Wall_time:    0.348 min, max Br: +1.0424e+01, min Br:-1.0642e+01
+Progress:    200/836 tasks completed.  Wall_time:    0.783 min, max Br: +1.0926e+01, min Br:-1.0519e+01
+Progress:    300/836 tasks completed.  Wall_time:    1.220 min, max Br: +1.0821e+01, min Br:-1.1075e+01
+Progress:    400/836 tasks completed.  Wall_time:    1.685 min, max Br: +1.0829e+01, min Br:-1.1147e+01
+Progress:    500/836 tasks completed.  Wall_time:    2.095 min, max Br: +1.0825e+01, min Br:-1.1143e+01
+Progress:    600/836 tasks completed.  Wall_time:    2.531 min, max Br: +1.2201e+01, min Br:-1.1139e+01
+Progress:    700/836 tasks completed.  Wall_time:    2.987 min, max Br: +1.5327e+01, min Br:-1.1137e+01
+Progress:    800/836 tasks completed.  Wall_time:    3.407 min, max Br: +1.7227e+01, min Br:-1.2573e+01
+Progress:    836/836 tasks completed.  Wall_time:    3.565 min, max Br: +1.7342e+01, min Br:-1.2303e+01
+Assigning Task:      0  --    11, Wall_time:    3.641 min
+Time Used:     3.64 min...
+
+### ./Brtp_temp_files/0001.out Content :
+ ### ======================================================================= ### 
+ ###        Step1: Compute the Sphrical harmonics function coefficient       ### 
+ ### ======================================================================= ### 
+ ### ======================================================================= ### 
+ ###                      Step2: Building the Brtp field                     ### 
+ ### ======================================================================= ### 
+Device:  cuda:1
+Progress:      1/832 tasks completed.  Wall_time:    0.004 min, max Br: +7.9204e-01, min Br:-7.9204e-01
+Progress:    100/832 tasks completed.  Wall_time:    0.390 min, max Br: +3.6957e+00, min Br:-3.6996e+00
+Progress:    200/832 tasks completed.  Wall_time:    0.828 min, max Br: +5.5011e+00, min Br:-5.4642e+00
+Progress:    300/832 tasks completed.  Wall_time:    1.268 min, max Br: +6.6156e+00, min Br:-6.8700e+00
+Progress:    400/832 tasks completed.  Wall_time:    1.709 min, max Br: +7.9407e+00, min Br:-7.5111e+00
+Progress:    500/832 tasks completed.  Wall_time:    2.150 min, max Br: +9.7883e+00, min Br:-9.2039e+00
+Progress:    600/832 tasks completed.  Wall_time:    2.612 min, max Br: +1.1871e+01, min Br:-1.0878e+01
+Progress:    700/832 tasks completed.  Wall_time:    3.028 min, max Br: +1.4491e+01, min Br:-1.2456e+01
+Progress:    800/832 tasks completed.  Wall_time:    3.466 min, max Br: +1.6519e+01, min Br:-1.4262e+01
+Progress:    832/832 tasks completed.  Wall_time:    3.607 min, max Br: +1.7351e+01, min Br:-1.4752e+01
+Assigning Task:     11  --    24, Wall_time:    3.684 min
+Time Used:     3.68 min...
+
+### ./Brtp_temp_files/0002.out Content :
+ ### ======================================================================= ### 
+ ###        Step1: Compute the Sphrical harmonics function coefficient       ### 
+ ### ======================================================================= ### 
+ ### ======================================================================= ### 
+ ###                      Step2: Building the Brtp field                     ### 
+ ### ======================================================================= ### 
+Device:  cuda:2
+Progress:      1/833 tasks completed.  Wall_time:    0.004 min, max Br: +3.2791e-01, min Br:-3.2791e-01
+Progress:    100/833 tasks completed.  Wall_time:    0.391 min, max Br: +3.1924e+00, min Br:-3.1953e+00
+Progress:    200/833 tasks completed.  Wall_time:    0.830 min, max Br: +5.4289e+00, min Br:-5.4405e+00
+Progress:    300/833 tasks completed.  Wall_time:    1.271 min, max Br: +7.5605e+00, min Br:-7.7635e+00
+Progress:    400/833 tasks completed.  Wall_time:    1.712 min, max Br: +1.0307e+01, min Br:-1.0519e+01
+Progress:    500/833 tasks completed.  Wall_time:    2.155 min, max Br: +1.2732e+01, min Br:-1.2859e+01
+Progress:    600/833 tasks completed.  Wall_time:    2.598 min, max Br: +1.4824e+01, min Br:-1.4450e+01
+Progress:    700/833 tasks completed.  Wall_time:    3.041 min, max Br: +1.7382e+01, min Br:-1.6867e+01
+Progress:    800/833 tasks completed.  Wall_time:    3.498 min, max Br: +2.1133e+01, min Br:-2.0888e+01
+Progress:    833/833 tasks completed.  Wall_time:    3.630 min, max Br: +2.1971e+01, min Br:-2.1735e+01
+Assigning Task:     24  --    41, Wall_time:    3.707 min
+Time Used:     3.71 min...
+
+### ./Brtp_temp_files/0003.out Content :
+ ### ======================================================================= ### 
+ ###        Step1: Compute the Sphrical harmonics function coefficient       ### 
+ ### ======================================================================= ### 
+ ### ======================================================================= ### 
+ ###                      Step2: Building the Brtp field                     ### 
+ ### ======================================================================= ### 
+Device:  cuda:3
+Progress:      1/820 tasks completed.  Wall_time:    0.004 min, max Br: +2.0739e-01, min Br:-2.0739e-01
+Progress:    100/820 tasks completed.  Wall_time:    0.392 min, max Br: +3.1618e+00, min Br:-3.1838e+00
+Progress:    200/820 tasks completed.  Wall_time:    0.839 min, max Br: +7.3878e+00, min Br:-7.2755e+00
+Progress:    300/820 tasks completed.  Wall_time:    1.291 min, max Br: +1.1193e+01, min Br:-1.0571e+01
+Progress:    400/820 tasks completed.  Wall_time:    1.722 min, max Br: +1.5265e+01, min Br:-1.4649e+01
+Progress:    500/820 tasks completed.  Wall_time:    2.195 min, max Br: +2.1111e+01, min Br:-2.0393e+01
+Progress:    600/820 tasks completed.  Wall_time:    2.612 min, max Br: +2.6951e+01, min Br:-2.6534e+01
+Progress:    700/820 tasks completed.  Wall_time:    3.054 min, max Br: +3.0965e+01, min Br:-3.1034e+01
+Progress:    800/820 tasks completed.  Wall_time:    3.543 min, max Br: +3.2307e+01, min Br:-3.4288e+01
+Progress:    820/820 tasks completed.  Wall_time:    3.633 min, max Br: +3.2302e+01, min Br:-3.4299e+01
+Assigning Task:     41  --    81, Wall_time:    3.666 min
+Time Used:     3.67 min...
+
