@@ -4,10 +4,10 @@ setup(
     name='pfss',
     version='1.0.0',
     packages=find_packages(),
-    description='PFSS Solver',
-    long_description='Python Tools to Solve the PFSS model by the syntopic magnetic map',
+    description='Solar Wind magnetic field Solver',
+    long_description='Python Tools to Solve the Solor Wind magnetic field with module: pfss, scs, and outflow field model etc.',
     author='Li Yihua, Chen Guoyin',
-    author_email='gychen@smail.nju.edu.cn',
+    author_email='liyihua0909@126.com,  gychen@smail.nju.edu.cn',
     install_requires=[
         'numpy>=1.24.0', 
         'matplotlib>=3.9.2',  
