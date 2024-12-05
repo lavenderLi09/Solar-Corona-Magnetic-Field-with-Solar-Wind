@@ -1,4 +1,4 @@
-# Solar Corona Magnetic Field with Solar Wind
+# Solar Corona Magnetic Field with Solar Wind (MagWind)
 ## Purpose
 
 ## Methods
